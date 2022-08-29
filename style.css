@@ -1,0 +1,43 @@
+div.mains{
+    margin-left:5%;
+    width:80%;
+    display: flex;
+    align-items: center;
+    justify-content: center
+
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.row_add{
+    width:100%;
+}
+.flex-column {
+    margin-left:2%;
+}
+div.included{
+    margin-left:20%;
+    margin-top:50px;
+}
+img {
+    width:90%
+}
+a {
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+/* || main layout */
+
+main {
+    display: flex;
+}
+
+
